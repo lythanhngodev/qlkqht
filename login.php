@@ -81,9 +81,6 @@
 <div style="padding-top:10px">
     <div style="width:922px; margin:auto">
         <div style="float:left; width:500px">
-            <div style=" padding:0px 0px">
-                <div align="left"><span style="font-size:12px; color:#999999">Bản quyền@2016. TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG</span></div>
-            </div>
             <div style="padding:10px 0px">
                 <p align="left"><span style="font-weight:bold; line-height: 10px">Cơ quan quản lý:</span><br />
                     TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG

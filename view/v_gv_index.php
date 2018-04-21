@@ -306,19 +306,6 @@
 
     </div> <!-- end row -->
 
-    <div class="row">
-
-        <div class="col-md-12" >
-            <div class="panel panel-default">
-                <div class="panel-heading"><B> (*) PĐT THÔNG BÁO </B></div>
-                <div class='panel-body'>
-                    Ngày 20/11 tất cả các lớp được nghỉ
-
-                </div>
-            </div>
-        </div> <!-- end col -->
-
-    </div> <!-- end row -->
 </div>
 <!--end Content -->
 
@@ -328,12 +315,8 @@
     <div style="background-color:#86af50">
         <div style="margin:auto; padding:0px 10px"><img src="images/ft.jpg" width="322" height="20" /></div>
     </div>
-    <div class="" style="background:url(images/img_46.jpg); background-position:top; padding: 15px">
+    <div class="" style="background:url('images/img_46.jpg'); background-position:top; padding: 15px">
         <div class="row">
-            <div class="col-md-12" >
-                <span style="font-size:12px; color:#999999">Bản quyền@2016. TRUNG TÂM KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA</span>
-            </div>
-
             <div class="col-md-6" >
                 <p><span style="font-weight:bold; line-height: 10px">Cơ quan quản lý:</span><br />
                     TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT VĨNH LONG <br />
@@ -342,7 +325,7 @@
 
             </div>
             <div class="col-md-6 " >
-                <div align="left"><span style="font-weight:bold">Ng thực hiện:</span><br />
+                <div align="left"><span style="font-weight:bold">Người thực hiện:</span><br />
                     Nguyễn Ngọc Yến Linh <br />
                     MSSV: 14004037<br />
                     Điện thoại: +84978743023
