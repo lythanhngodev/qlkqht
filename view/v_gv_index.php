@@ -178,7 +178,7 @@
             *margin-right: .3em;
             line-height: 14px;
             vertical-align: text-top;
-            background-image: url("../images/glyphicons-halflings.png");
+            background-image: url('images/glyphicons-halflings.png');
             background-position: 14px 14px;
             background-repeat: no-repeat;
         }
@@ -226,7 +226,7 @@
     </style>
 
 </head>
-<div id="bn" style=" background:url(images/bgbn.gif); background-position:top; background-repeat:repeat-x; width:100%; min-width:1110px">
+<div id="bn" style=" background:url('images/bgbn.gif'); background-position:top; background-repeat:repeat-x; width:100%; min-width:1110px">
 
     <div style="background-color:#86af50">
         <div style="float:left; width:30px; height:23px; margin-left:10px">
@@ -238,8 +238,8 @@
             | <a href="http://ems.vlute.edu.vn" style="color:white">VLUTE-ems</a>
         </div>
         <div style="float:right; padding-right:10px;color:white">
-            <div style="float:left; background:url(images/bnbg2.gif); height:23px; width:163px"></div>
-            <div style="float:left; background:url(images/imgbn.gif); height:23px; width:350px" align="center">
+            <div style="float:left; background:url('images/bnbg2.gif'); height:23px; width:163px"></div>
+            <div style="float:left; background:url('images/imgbn.gif'); height:23px; width:350px" align="center">
                 <a href='userInfoForm.action' style="color:white"> Xin chào Nguyễn Vạn Năng <span class="glyphicon glyphicon-user "> </span></a> |
                 <a href="../logout.action"  style="color:white" role="button"> Đăng Xuất <span class="glyphicon glyphicon-off"></span></a>
             </div>
