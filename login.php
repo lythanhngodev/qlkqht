@@ -52,7 +52,7 @@
             <div style="width:530px; height: 76px; background:url(images/login_06.jpg); padding-top:110px; background-repeat:no-repeat">
                 <form id="loginForm" action="index" method="post" >
                     <div>
-                        <div class="style1" style="float:left; margin-left:150px; width:100px">Tên Truy Nhập </div>
+                        <div class="style1" style="float:left; margin-left:150px; width:100px">Tên Tài Khoản </div>
                         <div style="float:left; margin-left:10px; width:130px">
                             <input type="text" name="username"  onFocus="this.select()"  style="width:130px; border:solid 1px #CCCCCC" />
                         </div>
