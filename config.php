@@ -13,13 +13,10 @@ class clsKetnoi{
 
     // Create connection to Oracle
     function ketnoi(){
-        $conn = @oci_connect($this->user, $this->pass, '//desktop-84pbfhu/orcl:quanlydiem');
-        if ($conn) echo "1";
+        $conn = @oci_connect($this->user, $this->pass, '//127.0.0.1/orcl:quanlydiem');
         return $conn;
     }
     // Close the Oracle connection
     //oci_close($conn);
 }
-$ketnoi = new clsKetnoi();
-$ketnoi->ketnoi();
 ?>
