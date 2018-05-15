@@ -17,15 +17,9 @@
     <link rel="stylesheet" href="css/jquery.msgBox.css" type="text/css" />
     <link href="css/jquery.pnotify.default.css" media="all" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/jquery-ui.css">
-
-
     <link rel="stylesheet" href="css/giangvien-style.css" media="screen" title="no title" charset="utf-8">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" >
-
-
-
-
     <style type="text/css">
         *{
             font-family: UVNTinTuc, Tahoma, Geneva, sans-serif;
